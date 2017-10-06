@@ -101,7 +101,7 @@ MODX Revolution 2.6.0-pl (unreleased)
 - Move OnFileManagerBeforeUpload event so it can also be used to prevent uploads or change file info [#13067]
 - Lower memory usage of duplicating contexts with lots of children [#13217]
 
-MODX Revolution 2.5.8-pl (TBD)
+MODX Revolution 2.5.8-pl (September 13, 2017)
 ====================================
 - Use pageSize from system settings for system settings grid [#13493]
 - Fix date format for created field of package in the package provider [#13509]
